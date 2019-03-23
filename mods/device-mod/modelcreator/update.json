@@ -1,0 +1,15 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/model-creator-app",
+  "1.12.2": {
+    "1.0.0": "- Initial Release",
+    "1.0.1": "- Added Search Bar to Search for cubes\n- Removed Exit button since it caused a crash sometimes\n- Bug Fixes",
+	"2.0.0": "- Added Camera Rotation\n- Changed mod id so that it is compatible with Minecraft Comes Alive\n- Bug Fixes"
+  },
+  "promos": {
+    "<mcversion>-latest": "<modversion>",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "<mcversion>-recommended": "<modversion>",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    ...
+  }
+}
