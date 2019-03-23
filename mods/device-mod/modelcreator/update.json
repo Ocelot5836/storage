@@ -6,10 +6,7 @@
 	"2.0.0": "- Added Camera Rotation\n- Changed mod id so that it is compatible with Minecraft Comes Alive\n- Bug Fixes"
   },
   "promos": {
-    "<mcversion>-latest": "<modversion>",
-    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
-    "<mcversion>-recommended": "<modversion>",
-    // Declare the latest "stable" version of your mod for the given Minecraft version
-    ...
+    "1.12.2-latest": "2.1.0",
+    "1.12.2-recommended": "2.0.0",
   }
 }
