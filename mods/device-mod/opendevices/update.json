@@ -1,0 +1,10 @@
+{
+	"homepage": "https://github.com/Ocelot5836/OpenDeviceMod",
+	"1.14.4": {
+		"0.1.0-pre": "Initial Pre-Release"
+	},
+	"promos": {
+		"1.14.4-latest": "0.1.0-pre",
+		"1.14.4-recommended": "0.1.0-pre"
+	}
+}
