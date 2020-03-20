@@ -1,0 +1,3 @@
+0.1.1 Changelog
+
+* Fixed Incompatibility with MrCrayfish's Vehicle Mod v0.43.0
