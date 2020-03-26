@@ -1,11 +1,12 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-vehicle-mod-jei",
 	"1.12.2": {
-		"1.0": "- Initial Release",
-		"1.1": "Changelog: https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/just-enough-vehicles/1.1.txt"
+		"1.0": "Changelog: https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/just-enough-vehicles/1.0.txt",
+		"1.1": "Changelog: https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/just-enough-vehicles/1.1.txt",
+		"1.2": "Changelog: https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/just-enough-vehicles/1.2.txt"
 	},
 	"promos": {
-		"1.12.2-latest": "1.1",
-		"1.12.2-recommended": "1.1"
+		"1.12.2-latest": "1.2",
+		"1.12.2-recommended": "1.2"
 	}
 }
