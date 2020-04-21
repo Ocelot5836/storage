@@ -1,7 +1,0 @@
-Changelog Template:
-
-0.1.0-pre Changelog
-
-+ Added things
-- Removed things
-* Fixed bugs

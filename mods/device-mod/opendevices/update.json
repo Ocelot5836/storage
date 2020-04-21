@@ -1,7 +1,7 @@
 {
 	"homepage": "https://github.com/Ocelot5836/OpenDeviceMod",
 	"1.15.2": {
-		"0.1.0-pre": "Changelog: https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/opendevices/0.1.0-pre.txt"
+		"0.1.0-pre": "+ Added things\n- Removed things\n* Fixed bugs"
 	},
 	"promos": {
 		"1.15.2-latest": "0.1.0-pre",
