@@ -1,0 +1,10 @@
+{
+	"homepage": "https://github.com/Ocelot5836/Server-Mod-Downloader",
+	"1.15.2": {
+		"0.1.0-pre": "Initial Publish"
+	},
+	"promos": {
+		"1.15.2-latest": "0.1.0-pre",
+		"1.15.2-recommended": "0.1.0-pre"
+	}
+}
