@@ -3,10 +3,18 @@
 	"1.12.2": {
 		"1.0": "+ Initial Release",
 		"1.1": "* Fixed Incompatibility with MrCrayfish's Vehicle Mod v0.43.0",
-		"1.2": "* Fixed materials disappearing from JEI tab"
+		"1.2": "* Fixed materials disappearing from JEI tab",
+		"2.0.0": "* Dyes now appear as ingredients"
+	},
+	"1.15.2": {
+		"2.0.0": "+ Initial Port"
+	},
+	"1.16.3": {
+		"2.0.0": "+ Initial Port"
 	},
 	"promos": {
-		"1.12.2-latest": "1.2",
-		"1.12.2-recommended": "1.2"
+		"1.12.2-latest": "2.0.0",
+		"1.15.2-latest": "2.0.0",
+		"1.16.3-latest": "2.0.0"
 	}
 }
