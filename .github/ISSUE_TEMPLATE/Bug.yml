@@ -40,8 +40,8 @@ body:
   - type: textarea
     id: logs
     attributes:
-      label: Relevant log output
-      description: Please copy and paste `latest.log` or the relevant crash log here. This will be automatically formatted into code, so no need for backticks.
+      label: latest.log
+      description: Please copy and paste the text from `latest.log`. This will be automatically formatted into code, so no need for backticks.
       render: shell
     validations:
       required: true
