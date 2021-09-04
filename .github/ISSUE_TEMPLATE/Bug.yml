@@ -1,0 +1,6 @@
+name: Bug
+description: Report an issue with the game
+title: "[0.1.0] "
+labels: [bug]
+assignees:
+  - Ocelot5836
