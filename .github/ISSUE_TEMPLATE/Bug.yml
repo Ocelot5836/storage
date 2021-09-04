@@ -4,3 +4,52 @@ title: "[0.1.0] "
 labels: [bug]
 assignees:
   - Ocelot5836
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for asking Mish for a Tip. Tune into a Live stream or read Mish's articles on DEV for great GitHub tips.
+  - type: input
+    id: Name
+    attributes:
+      label: Name of GitHub Tip
+      description: What is the name of this GitHub Tip?
+      placeholder: ex. GitHub Issue Forms
+    validations:
+      required: true
+
+  - type: textarea
+    id: info
+    attributes:
+      label: More information
+      description: Add more information on the tip you would like to see.
+      render: shell
+    validations:
+      required: true
+
+  - type: dropdown
+    id: Level
+    attributes:
+      label: What kind of level is this tip?
+      description: What level of developer do you tthink this tip is aimed at?
+      options:
+        - Beginner
+        - Intermediate
+        - Advanced
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: location
+    attributes:
+      label: Where do you want this GitHub Tip?
+      description: Where would you like to see this GitHub Tip? You can select more than one.
+      options:
+        - label: Twitch
+          required: false
+        - label: DEV post
+          required: false
+        - label: YouTube video (longer)
+          required: false
+        - label: Twitter video (shorter)
+          required: false
