@@ -21,13 +21,14 @@ body:
   - type: dropdown
     id: os
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
+      label: What platform are you seeing the problem on?
       options:
         - Windows
         - Mac
         - Linux
         - Other
+    validations:
+      required: true
   - type: input
     id: platform_information
     attributes:
